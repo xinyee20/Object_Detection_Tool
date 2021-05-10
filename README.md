@@ -1,30 +1,29 @@
-## Object Detection Tool
+# Object Detection Tool 
+###### DYM1401TT Final Assignment
 
 #### Simple tool to detect objects in images!
 
 ##### Type of objects not restricted to enable greater flexibility and increase applicability of tool for more users.
 
-#### Deployed site:
+#### Deployed site: [Object Detection Tool](http://1c098a1cb56a.ngrok.io)
 
-[Object Detection Tool](http://1c098a1cb56a.ngrok.io)
-
-### Instructions for users
+## Instructions for users
 
 ##### 1. Upload the image
 
 ##### 2. Wait for the the magic to happen!
 
-#### Inference Time
+## Inference Time (with examples)
 
 ##### Sample 1
 
 ###### Before
 
-![Before](../images/sample1before.jpg)
+<img src="./images/sample1before.jpeg" width="300" />
 
 ###### After
 
-![After](../images/sample1after.jpg)
+<img src="./images/sample1after.jpeg" width="300" />
 
 ###### Time Taken: 1.0762 sec
 
@@ -32,11 +31,11 @@
 
 ###### Before
 
-![Before](../images/sample2before.jpg)
+<img src="./images/sample2before.jpeg" width="300" />
 
 ###### After
 
-![After](../images/sample2after.jpg)
+<img src="./images/sample2after.jpeg" width="300" />
 
 ###### Time Taken: 1.1706 sec
 
@@ -44,19 +43,20 @@
 
 ###### Before
 
-![Before](../images/sample3before.jpg)
+<img src="./images/sample3before.jpeg" width="300" />
 
 ###### After
 
-![After](../images/sample3after.jpg)
+<img src="./images/sample3after.jpeg" width="300" />
 
 ###### Time Taken: 1.2074 sec
 
-#### Usage of Model: Yolov5
+### Usage of Model: 
 
-##### Relatively fast and accurate model
+- Yolov5
+  - Relatively fast and accurate model
 
-#### Tech Stack
+### Tech Stack
 
 - Google Colab
   - Good when faced with limited local storage capacity
