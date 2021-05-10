@@ -58,9 +58,15 @@
 
 ### Tech Stack
 
+- PyTorch
+  - Many useful machine learning models available for usage
 - Google Colab
   - Good when faced with limited local storage capacity
 - Streamlit
   - For easy app creation to illustrate machine learning model capabilities
-- ngrok
+- Ngrok
   - For site deployment
+
+##### References
+- [Running Streamlit from Colab](https://medium.com/@jcharistech/how-to-run-streamlit-apps-from-colab-29b969a1bdfc) <br>
+- [Image Upload using Streamlit and processing with PyTorch](https://towardsdatascience.com/create-an-image-classification-web-app-using-pytorch-and-streamlit-f043ddf00c24)
