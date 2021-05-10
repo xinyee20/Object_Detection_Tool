@@ -1,8 +1,11 @@
-    ## Object Detection Tool
-    #### Simple tool to to detect objects in images!
+## Object Detection Tool
 
-    ### Instructions
-    ##### Upload the image
-    ##### Wait for the the magic to happen!
+#### Simple tool to to detect objects in images!
 
-    #### Inference Time
+### Instructions
+
+##### 1. Upload the image
+
+##### 2. Wait for the the magic to happen!
+
+#### Inference Time
