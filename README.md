@@ -5,7 +5,7 @@
 
 ##### Type of objects not restricted to enable greater flexibility and increase applicability of tool for more users.
 
-#### Deployed site: [Object Detection Tool](http://1c098a1cb56a.ngrok.io)
+<!-- Deployed site: [Object Detection Tool](http://1c098a1cb56a.ngrok.io)-->
 
 ## Instructions for users
 
